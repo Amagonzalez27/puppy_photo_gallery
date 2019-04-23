@@ -12,3 +12,12 @@ Using HTML5, CSS3, and vanilla JavaScript to display a grid of french bulldog ph
 
 Main View:
 ![Gallery View of Puppies](https://github.com/Amagonzalez27/puppy_photo_gallery/tree/master/assets/full_view.png)
+
+When hovering over image:
+![View of hovering over puppy image](https://github.com/Amagonzalez27/puppy_photo_gallery/tree/master/assets/hover_view.png)
+
+Modal View:
+![modal view of puppy image](https://github.com/Amagonzalez27/puppy_photo_gallery/tree/master/assets/hover_view.png)
+
+Responsive View:
+![View of repsonsive puppy gallery](https://github.com/Amagonzalez27/puppy_photo_gallery/tree/master/assets/hover_view.png)

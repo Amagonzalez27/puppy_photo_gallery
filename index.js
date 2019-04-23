@@ -12,8 +12,6 @@ items.forEach(item => {
   });
 });
 
-var close = document.getElementsByClassName('close')[0];
-
-close.addEventListener('click', () => {
+modal.addEventListener('click', () => {
   modal.style.display = 'none';
 });

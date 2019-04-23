@@ -11,4 +11,4 @@ Using HTML5, CSS3, and vanilla JavaScript to display a grid of french bulldog ph
 **Here is what I came up with:**
 
 Main View:
-(https://github.com/Amagonzalez27/puppy_photo_gallery/tree/master/assets/full_view.png)
+![alt text](https://github.com/Amagonzalez27/puppy_photo_gallery/tree/master/assets/full_view.png)
